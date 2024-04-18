@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+.vs
+x64
+Test_Mutex
+*.user
+.idea
